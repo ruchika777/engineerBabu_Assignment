@@ -24,5 +24,3 @@ var server = http.createServer(app);
 server.listen( app.get('port'), '0.0.0.0', () => {
   console.log('Server is up and running on port number '+ app.get('port'));
 });
-
-
