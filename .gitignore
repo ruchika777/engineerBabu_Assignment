@@ -2,10 +2,11 @@
 bin-debug/
 bin-release/
 [Oo]bj/
-[Bb]in/
+# [Bb]in/
 
 # Other files and folders
 .settings/
+package-lock.json
 
 # Executables
 *.swf
